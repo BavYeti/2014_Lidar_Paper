@@ -1,7 +1,7 @@
 2014_Lidar_Paper
 ================
 
-Code pertinent to our LiDAR paper
+Code pertinent to our [LiDAR paper](http://dx.doi.org/10.3390/rs70201594)
 
 To run this you'll need:
   - Python 2.7x
